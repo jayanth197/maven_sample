@@ -1,4 +1,4 @@
 INSERT INTO `jenkins`.`new_table`
-(`c2`)
+(`c1`,`c2`)
 VALUES
-(`hii`);
+(`testing2`,`testing1`);
