@@ -1,4 +1,4 @@
-INSERT INTO `jenkins`.`maven sample`
-(`db1`,`db2`)
+INSERT INTO `jenkins`.`new_table`
+(`c1`)
 VALUES
-('testing1','testing2');
+('testing1');
